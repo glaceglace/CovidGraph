@@ -6,13 +6,10 @@ import { Row, Grid } from 'react-native-easy-grid';
 export default function App() {
 
   return (
-    <Grid>
-    <Row size={45}></Row>
-    <Row size={55} >
+
+    
     <DashBoard ></DashBoard>
-    </Row>
   
-    </Grid>
   );
 }
 
