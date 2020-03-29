@@ -7,8 +7,8 @@ export default function App() {
 
   return (
     <Grid>
-    <Row size={50}></Row>
-    <Row size={50} >
+    <Row size={45}></Row>
+    <Row size={55} >
     <DashBoard ></DashBoard>
     </Row>
   
